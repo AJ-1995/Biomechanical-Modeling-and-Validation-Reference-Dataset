@@ -1,6 +1,8 @@
-# Biomechanical-Modeling-and-Validation-Reference-Dataset
-[Biomechanical-Modeling-and-Validation-Reference-Dataset Download Links](https://pan.baidu.com/s/1Ro9EcbFndgwO1diiubYxYg) Extraction Code: 2025
+# Biomechanical-Modeling-and-Validation-Reference-Code-and-Dataset
+[Biomechanical-Modeling-and-Validation-Reference-Code-and-Dataset Download Links](https://pan.baidu.com/s/1qgTH9Eom3Jlq7C6as2Bsxg) Extraction Code: 2025
 
+Code Content:
+The code includes left and right buttock segmentation, machine learning model training, and alpha parameter fitting scripts.
 ## Description of dataset 
 Data Source:
 The flexible pressure imaging system used in this study was independently developed by our research group, based on a flexible piezoresistive film array and a custom-designed parallel acquisition circuit. Clinical data were collected from Xinhua Hospital (Shanghai, China) and two other collaborating medical institutions.
